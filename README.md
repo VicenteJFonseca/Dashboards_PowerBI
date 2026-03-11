@@ -1,5 +1,6 @@
-### DASHBOARDS ESTRATÉGICOS - BIOCEN
-O PROJETO DE DADOS: Dashboards Estratégicos desenvolvidos para a coordenação do BIOCEN utilizando dados financeiros e de demanda de animais em um determinado período de interesse. Os dashboards estratégicos que constam neste projeto são: <br> 
+## DASHBOARDS ESTRATÉGICOS - BIOCEN
+### O PROJETO DE DADOS
+Dashboards Estratégicos desenvolvidos para a coordenação do BIOCEN utilizando dados financeiros e de demanda de animais em um determinado período de interesse. Os dashboards estratégicos que constam neste projeto são: <br> 
 
 **Dashboard 1:** Dados de Entrega de Animais 2024 - Mostra o preço médio dos animais vendidos; a frequência das idades dos animais solicitados; a evolução do número de pedidos, projetos e pesquisadores atendidos no período de três anos. <br> 
 
