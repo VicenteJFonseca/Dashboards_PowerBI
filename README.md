@@ -18,7 +18,7 @@ Dashboards Estratégicos desenvolvidos para a coordenação do BIOCEN utilizando
 
 Microsoft Power BI
 
-###O BJETIVO
+### OBJETIVO
 Os dashboards estratégicos mostrados neste projeto foram desenvolvidos para municiar a coordenação do BIOCEN de indicadores relevantes e um panorama da situação financeira do biotério bem como também da demanda e venda de animais nos períodos solicitados. Ademais, os dashboards estratégicos não possuem filtros, pois foram utilizados em reuniões institucionais para a tomada de decisões e captação de recursos para investimento e melhorias na infraestrutura do BIOCEN. 
 
 ### RESULTADO: 
