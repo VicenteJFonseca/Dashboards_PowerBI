@@ -24,8 +24,8 @@ Microsoft Power BI
 Os dashboards estratégicos mostrados neste projeto foram desenvolvidos para municiar a coordenação do BIOCEN de indicadores relevantes e um panorama da situação financeira do biotério bem como também da demanda e venda de animais nos períodos solicitados. Ademais, os dashboards estratégicos não possuem filtros, pois foram utilizados em reuniões institucionais para a tomada de decisões e captação de recursos para investimento e melhorias na infraestrutura do BIOCEN. 
 
 ### RESULTADO 
--	Os gráficos gerados permitiram à coordenação ajustar a produção, reduzindo prejuízos causados por animais excedentes e alinhando oferta à demanda real. Com isso, houve a eliminação de um prejuízo de aproximadamente R$ 2,3 milhões observados no triênio 2019–2021.<br> 
--	A partir das informações de produção e vendas das linhagens menos vendidas, houve um engajamento do BIOCEN junto à comunidade acadêmica de modo que aumentou a venda dessas linhagens em 167,54% para camundongos CD1 e 118,44% para ratos Wistar.<br> 
--	A partir das informações do dashboard de dados financeiros e de demanda desenvolvidos em 2022, a coordenação engajou-se no aumento de disponibilização de animais na forma de redução das filas de espera de atendimento dos pedidos dos pesquisadores. Como resultado, as vendas subiram e a receita aumento em 387,57% entre os períodos de 2022 a 2025.
+-	As visualizações de dados geradas permitiram à equipe técnica ajustar a produção, reduzindo prejuízos causados pela produção excedente nas linhagens CD1 e Wistar e alinhando-as às demandas reais. Com isso, houve a eliminação de um prejuízo de aproximadamente R$ 2,3 milhões observados no triênio 2019–2021.<br> 
+-	A partir das informações de produção e vendas das linhagens menos vendidas, houveram estratégias internas do BIOCEN junto à comunidade acadêmica de modo que aumentaram as vendas dessas linhagens em 167,54% para camundongos CD1 e 118,44% para ratos Wistar.<br> 
+-	A partir dos insights apontados pelo dashboard de demanda e vendas desenvolvidos em 2022, a coordenação junto à equipe técnica do BIOCEN ajustaram a produção de animais das linhagens mais demandadas na forma que reduziu as filas de espera de atendimento dos pedidos dos pesquisadores. Como resultado, as vendas subiram e a receita aumento em 387,57% entre os períodos de 2022 a 2025.
 
 
