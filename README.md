@@ -4,13 +4,13 @@ Dashboards Estratégicos desenvolvidos para a coordenação do BIOCEN utilizando
 
 **Dashboard 1:** Dados de Entrega de Animais 2024 - Mostra o preço médio dos animais vendidos; a frequência das idades dos animais solicitados; a evolução do número de pedidos, projetos e pesquisadores atendidos no período de três anos. <br> 
 
-**Dashboard 2:** Resultados Financeiros - Mostra a evolução dos Gastos Fixos, Variáveis e Investimentos no período de 5 anos; A participação dos principais financiadores dos gastos do BIOCEN no período de 4 anos; a evolução das receitas com venda de animais e gastos realizados utilizando esse mesmo recurso no ano de 2022 (ano em que foi solicitado o relatório). <br> 
+**Dashboard 2:** Resultados Financeiros - Mostra a evolução dos Gastos Fixos, Variáveis e Investimentos no período de 5 anos; a participação dos principais financiadores dos gastos do BIOCEN no período de 4 anos; a evolução das receitas com venda de animais e gastos realizados utilizando esse mesmo recurso no ano de 2022 (ano em que foi solicitado o relatório). Observação: Não houve diferenciação entre custos e despesas a fim de simplificar a informação para uma audiência leiga. Dessa forma, adotou-se o termo "gasto" por ter conotação mais abrangente. <br> 
 
 **Dashboard 3:** Totais Anuais de Animais Disponibilizados - Contém a série histórica do total de animais disponibilizados (vendidos) por ano desde o ano do início da produção 2014 até 2024. Mostra quais são as linhagens mais vendidas e as menos vendidas no período. <br> 
 
 **Dashboard 4:** Totais Anuais por Linhagem - Série histórica abarcando dez anos das vendas anuais de cada linhagem produzida no BIOCEN. <br> 
 
-**Apresentação 1:** Relatórios Visuais - Contém o dashboards mais importantes desenvolvidos nos últimos 4 anos para a direção do BIOCEN e que foram importantes para a tomada de decisões estratégicas. <br> 
+**Apresentação 1:** Relatórios Visuais - Contém os dashboards desenvolvidos nos últimos 4 anos para a direção do BIOCEN e que foram importantes para a tomada de decisões estratégicas. <br> 
 
 **Apresentação 2:** Apresentação Institucional - Contém a apresentação da infraestrutura para reuniões internas com os dashboards de dados financeiros e de vendas atualizados. <br> 
 
