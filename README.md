@@ -14,6 +14,8 @@ Dashboards Estratégicos desenvolvidos para a coordenação do BIOCEN utilizando
 
 **Apresentação 2:** Apresentação Institucional - Contém a apresentação da infraestrutura para reuniões internas com os dashboards de dados financeiros e de vendas atualizados. <br> 
 
+**NOTA:** Foi solicitada à coordenação do BIOCEN a autorização para utilização dos dados no presente portfólio além da sua publicação no GitHub. Dados sensíveis, tais como: dados pessoais dos pesquisadores, nomes de projetos, dados de fornecedores; foram retirados em consonância com a Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018).
+
 ### TECNOLOGIAS USADAS
 
 Microsoft Power BI
